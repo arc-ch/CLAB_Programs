@@ -1,0 +1,10 @@
+1WAP to find sum of n numbers(n= user input)
+2WAP to find the average of n numbers 
+3WAP to find the factorial of a number
+4WAP to find the gcd and lcm of 2 positive integer numbers
+5WAP to find which prints the smallest divisor of the integer (77's smallest divisor = 1)
+6WAP to print the digits one by one least significant bit will be printed first n=121 n%10=1 n%10=2 n%10=1 
+7WAP to reverse the digits of an integer
+8WAP to accept an integer number and print the multiplication of the digits
+9WAP to accept a number and find the sum of individual digits repeatedly till the result is a single digit
+10WAP to display all the two digits Numbers which are divisible by 3 but not by 9
